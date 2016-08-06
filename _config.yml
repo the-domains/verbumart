@@ -1,4 +1,3 @@
-layout_spectrum: 0.8356214256491512
 typography_spectrum: 0.22536273463629186
 color:
   brandStrength: 0.4176052443217486
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.8356214256491512
 name: VerbumArt
 title: The Word
+description: in art
