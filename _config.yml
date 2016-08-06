@@ -11,8 +11,7 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.8356214256491512
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5470904-db4e-4194-a7fc-f91c91865ae7.jpg
+logo: null
 name: VerbumArt
 title: The Word
 description: in art
