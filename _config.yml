@@ -1,0 +1,14 @@
+layout_spectrum: 0.8356214256491512
+typography_spectrum: 0.22536273463629186
+color:
+  brandStrength: 0.4176052443217486
+  lightness: 0.435783585999161
+  saturation: 0.1517883250489831
+  rhythmicContrast: 0.6984177371487021
+  brandColors:
+    - '#FDF3F2'
+    - '#000002'
+    - '#85838E'
+    - '#C02C1E'
+    - '#4E4E68'
+name: VerbumArt
